@@ -2,9 +2,10 @@
 R exercises using CRISP-DM approach
 
 Exercises:
-* Ex0 - Statistical Analysis (ANOVA, Logistic Regression)
-* Ex1 - Exploratory data analysis
-* Ex2 - Classification Models
+* Ex1 - Intro to R, AOV, Boxplot, QQ-Plot
+* Ex2 - Statistical Analysis (ANOVA, Logistic Regression)
+* Ex3 - Exploratory data analysis
+* Ex4 - Classification Models
 
 Datasets:
 * Toothgrowth
